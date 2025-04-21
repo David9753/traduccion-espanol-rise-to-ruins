@@ -44,7 +44,7 @@ Podés dejar un comentario o crear un *issue* en este repositorio. Toda ayuda es
 
 ---
 
-## 👤 Autor
+##  Autor
 
 Hecho con cariño por **david9753**.  
 Proyecto personal, realizado por una sola persona y sin fines de lucro.
