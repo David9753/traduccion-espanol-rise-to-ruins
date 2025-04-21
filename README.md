@@ -11,10 +11,10 @@ Mod de localización al español para *Rise to Ruins* compatible con la versión
 
 ## 📦 Instalación
 
-1. Descarga o clona este repositorio.
-2. Ubica la carpeta raíz del juego *Rise to Ruins*.
-3. Dentro de esa carpeta, busca (o crea si no existe) una carpeta llamada `localization`.
-4. Copia la carpeta `spanish` (incluida en este mod) dentro de `localization`.
+1. **[Descargá la última versión del mod haciendo clic aquí](https://github.com/david9753/Traduccion-al-espanol-Rise-to-Ruins/releases)** o clona este repositorio.
+2. Ubicá la carpeta raíz del juego *Rise to Ruins*.
+3. Dentro de esa carpeta, buscá (o creá si no existe) una carpeta llamada `localization`.
+4. Copiá la carpeta `spanish` (incluida en este mod) dentro de `localization`.
 
 Tu estructura debería verse así:
 
